@@ -1,0 +1,47 @@
+
+©¦  App.vue
+©¦  main.js
+©¦  
+©À©¤api
+©¦      index.js
+©¦      mockRequest.js
+©¦      requests.js
+©¦      
+©À©¤assets
+©¦      logo.png
+©¦      
+©À©¤components
+©¦      Aside.vue
+©¦      MyHeader.vue
+©¦      MySteps.vue
+©¦      
+©À©¤mock
+©¦      index.js
+©¦      questionbank.json
+©¦      
+©À©¤pages
+©¦  ©¦  AllBank.vue
+©¦  ©¦  CallBug.vue
+©¦  ©¦  Exam.vue
+©¦  ©¦  Examination.vue
+©¦  ©¦  Home.vue
+©¦  ©¦  Login.vue
+©¦  ©¦  Practice.vue
+©¦  ©¦  Questionbank.vue
+©¦  ©¦  Upload.vue
+©¦  ©¦  WrongQuestion.vue
+©¦  ©¦  
+©¦  ©¸©¤image
+©¦          code.png
+©¦          home.png
+©¦          
+©À©¤router
+©¦      index.js
+©¦      
+©À©¤store
+©¦      index.js
+©¦      
+©¸©¤utils
+        Storage.js
+        time.js
+        

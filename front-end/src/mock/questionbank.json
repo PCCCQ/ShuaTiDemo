@@ -1,0 +1,67 @@
+{
+    "questionBank": [
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "1",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "2",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "3",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "4",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "5",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "6",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "1",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练",
+            "bankId": "2",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "3",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        },
+        {
+            "bankName": "微信小程序练习",
+            "bankId": "4",
+            "bankUploadTime": "2001-02-03 19: 20: 20",
+            "bankNum": "100"
+        }
+        
+    ],
+    "bankPage": "1",
+    "total":10
+}

@@ -1,0 +1,47 @@
+#测试
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vue?serverTimezone=GMT%2b8
+    username: root
+    password: 12zhangzhi
+
+    hikari:
+      idle-timeout:60000
+      maximum-pool-size:30
+      minimum-idle:10
+
+#上线
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/shuati?serverTimezone=GMT%2b8
+#    username: shuati
+#    password: 12zhangzhi
+#
+#    hikari:
+#      idle-timeout:60000
+#      maximum-pool-size:30
+#      minimum-idle:10
+
+
+
+
+
+
+
+
+server:
+  port: 9090
+#  redis:
+#    host: localhost
+#    port: 6379
+
+
+
+
+
+
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
